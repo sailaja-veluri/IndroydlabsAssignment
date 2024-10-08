@@ -1,0 +1,15 @@
+.game-play-view {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .game-play-view .mobile-play-screen,
+  .game-play-view .desktop-play-screen {
+    width: 45%;
+  }
+  
+  h2 {
+    color: #444;
+  }
+  
